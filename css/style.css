@@ -124,3 +124,32 @@ text-center h3 {
     border-radius: 8px;
     margin-right: 1%;
 }
+
+/*quote section configuration*/
+
+.quote-section {
+    margin-top: 10%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: #e5e7eb;
+}
+
+.quote {
+    width: 50%;
+    margin-top: 6%;
+    padding: 3%;
+}
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    text-align: justify;
+}
+
+.quote span {
+    font-weight: bolder;
+    font-size: 18px;
+    margin-left: 60%;
+}
